@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning how to use GitHub
+- 🔭 I’m currently trying to figure how to use this software so I may be a little slow so sorry for the inconvenience
 <!--
 **Moebro2002/Moebro2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
